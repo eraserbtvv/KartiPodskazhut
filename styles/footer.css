@@ -1,0 +1,15 @@
+.footer {
+    color: var(--text-color);
+    border-top: 1px solid var(--text-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    padding: 2.5vw;
+    margin-top: 10vw;
+}
+
+.footer__copyright {
+    font-family: var(--main-font);
+}
+
